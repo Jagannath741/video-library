@@ -8,8 +8,8 @@ A fully responsive video library built with React that allows users to browse, s
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Video Page](./screenshots/video-page.png)
+![Home Page](./public/video-libary.png)
+![Video Page](./public/screen-recording.mp4)
 
 ---
 
