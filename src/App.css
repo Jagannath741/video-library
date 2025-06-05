@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.body-background {
+  background-image: url("/public/banner.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.bg-shade {
+  background-color: rgba(0,0,0,0.6);
+  height: 100vh;
+}
