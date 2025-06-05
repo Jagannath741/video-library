@@ -4,7 +4,7 @@ A fully responsive video library built with React that allows users to browse, s
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-deployment-link.netlify.app)
+[View Live Project](https://video-libry-app.netlify.app/)
 
 ## 📸 Screenshots
 
